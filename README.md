@@ -1,6 +1,7 @@
 # inttest
 
 asdfasf
+o
 
 aaa
 
